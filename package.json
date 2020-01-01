@@ -15,7 +15,7 @@
     "react-native-modal-dropdown": "0.7.0"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.0.0"
+    "babel-preset-expo": "^8.0.0"
   },
   "private": true
 }
